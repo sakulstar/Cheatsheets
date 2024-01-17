@@ -34,7 +34,7 @@ loadkeys dk-latin1
 For this install I will assume you will be installing it on bare metal with the UEFI boot mode and 64-bit. (You will be shown how to check this).
 
 ### Prerequisites
-1. Download the latest Arch Linux ISO from [archlinux.org](https://archlinux.org/download/).
+1. Download the latest 64 bit Arch Linux ISO from [archlinux.org](https://archlinux.org/download/).
 2. Remember to check the files hash to verify that the downloaded file hasn't been tampered with, you can do this by using [hash-file.online](https://hash-file.online/), [toolsley.com](https://www.toolsley.com/hash.html) or any other software/website you know.
 3. You can either use [Rufus](https://rufus.ie/en/), [Ventoy](https://www.ventoy.net/en/index.html) or any other software to create a bootable USB with the Arch Linux ISO on it.
 4. Make sure you don't have secure boot enabled in the BIOS as that is not supported by the arch linux installation medium.
